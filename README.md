@@ -249,7 +249,7 @@ Open the notebook and run all cells.
 
 # 👤 Author
 
-**Ernest**
+**Ernest Amanor Sawer**
 
 Data Analyst | Data Scientist | Quantitative Analytics Enthusiast
 
